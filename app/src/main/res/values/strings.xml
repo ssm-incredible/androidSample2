@@ -3,5 +3,5 @@
     <string name="edit_message">Enter a message</string>
     <string name="button_send">Send</string>
     <string name="text_box">텍스트 박스</string>
-    <string name="button">버튼</string>
+    <string name="button">button</string>
 </resources>
